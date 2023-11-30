@@ -5,7 +5,7 @@ public class Throws_Testing {
 	
 	
 	  
-	    //function to check if person is eligible to vote or not   
+	     
 	    public static void method() throws FileNotFoundException {  
 	  
 	        FileReader file = new FileReader("C:\\Users\\Anurati\\Desktop\\abc.txt");  
